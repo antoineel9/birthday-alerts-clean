@@ -1,14 +1,9 @@
-# dependencies
 node_modules/
-
-# Expo
 .expo/
 dist/
 web-build/
-
-# OS
+.env*
 .DS_Store
-
-# Env
-.env
-.env.local
+.vscode/
+android/
+ios/
